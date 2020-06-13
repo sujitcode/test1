@@ -1,0 +1,31 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "04e8ab42f374aa511861fb97f00920c3",
+    "loginToken": "",
+    "logs": [
+      {
+        "time": "2020-06-11T04:53:54.982Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-11T05:11:37.648Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-11T16:39:16.688Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-11T16:42:33.819Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
